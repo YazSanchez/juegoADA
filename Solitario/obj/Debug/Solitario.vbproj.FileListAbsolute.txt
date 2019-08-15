@@ -1,0 +1,12 @@
+C:\Users\Alumno\source\repos\Solitario\Solitario\bin\Debug\Solitario.exe.config
+C:\Users\Alumno\source\repos\Solitario\Solitario\bin\Debug\Solitario.exe
+C:\Users\Alumno\source\repos\Solitario\Solitario\bin\Debug\Solitario.pdb
+C:\Users\Alumno\source\repos\Solitario\Solitario\bin\Debug\Solitario.xml
+C:\Users\Alumno\source\repos\Solitario\Solitario\obj\Debug\Solitario.vbprojAssemblyReference.cache
+C:\Users\Alumno\source\repos\Solitario\Solitario\obj\Debug\Solitario.Resources.resources
+C:\Users\Alumno\source\repos\Solitario\Solitario\obj\Debug\Solitario.vbproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\Solitario\Solitario\obj\Debug\Solitario.vbproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\Solitario\Solitario\obj\Debug\Solitario.exe
+C:\Users\Alumno\source\repos\Solitario\Solitario\obj\Debug\Solitario.xml
+C:\Users\Alumno\source\repos\Solitario\Solitario\obj\Debug\Solitario.pdb
+C:\Users\Alumno\source\repos\Solitario\Solitario\obj\Debug\Solitario.Game.resources
